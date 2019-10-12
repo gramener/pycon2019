@@ -4,7 +4,8 @@ These are the [slides](2019-10-12-PyCon-India-Maps.pptx) for my talk at [PyCon I
 
 The talk is about joining geo-spatial data, and explains why this is useful, how you can do it, and what else is possible.
 
-[Download the slides](2019-10-12-PyCon-India-Maps.pptx)
+- [Download the slides](2019-10-12-PyCon-India-Maps.pptx)
+- [View the IPython notebook](ka/merge.ipynb)
 
 ## Links
 
